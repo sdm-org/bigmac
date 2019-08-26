@@ -19,7 +19,7 @@
     "automation",
     "sdm",
     "seed"
-  ],
+  ], 
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
