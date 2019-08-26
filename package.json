@@ -26,7 +26,7 @@
     "@atomist/automation-client": "^1.6.2",
     "@atomist/automation-client-ext-dashboard": "1.0.2-master.20190122114232",
     "@atomist/automation-client-ext-logzio": "1.0.2-master.20190111233251",
-    "@atomist/sdm": "https://registry.npmjs.org/@atomist/sdm/-/@atomist/sdm-1.3.0-master.20190206205235.tgz",
+    "@atomist/sdm": "^1.6.1",
     "@atomist/sdm-core": "1.3.0-master.20190203162110",
     "@atomist/sdm-pack-analysis": "0.1.0-master.20190206085551",
     "@atomist/sdm-pack-build": "1.0.4-master.20190110123121",
