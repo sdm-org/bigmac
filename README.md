@@ -4,7 +4,7 @@
 
 # @atomist/global-sdm
 
-my rebase is working?
+my rebase is working? 
 
 [atomist-doc]: https://docs.atomist.com/ (Atomist Documentation)
 
