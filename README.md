@@ -32,7 +32,7 @@ behavior to code-of-conduct@atomist.com.
 ## Documentation
 
 Please see [docs.atomist.com][atomist-doc] for
-[developer][atomist-doc-sdm] documentation.
+[developer][atomist-doc-sdm] documentation. 
  
 [atomist-doc-sdm]: https://docs.atomist.com/developer/sdm/ (Atomist Documentation - SDM Developer)
 
