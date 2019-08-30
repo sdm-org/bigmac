@@ -19,7 +19,7 @@ creating an SDM.
 
 Contributions to this project from community members are encouraged
 and appreciated. Please review the [Contributing
-Guidelines](CONTRIBUTING.md) for more information. Also see the
+Guidelines](CONTRIBUTING.md) for more information. Also see the 
 [Development](#development) section in this document.
 
 ## Code of conduct
