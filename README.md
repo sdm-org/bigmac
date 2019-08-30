@@ -25,7 +25,7 @@ Guidelines](CONTRIBUTING.md) for more information. Also see the
 ## Code of conduct
 
 This project is governed by the [Code of
-Conduct](CODE_OF_CONDUCT.md). You are expected to act in accordance
+Conduct](CODE_OF_CONDUCT.md). You are expected to act in accordance 
 with this code by participating. Please report any unacceptable
 behavior to code-of-conduct@atomist.com.
 
