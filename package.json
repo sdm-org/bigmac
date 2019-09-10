@@ -1,4 +1,4 @@
-{ 
+{
   "name": "bigmac",
   "version": "0.1.2",
   "description": "my new project bla bla",
@@ -19,11 +19,11 @@
     "automation",
     "sdm",
     "seed"
-  ], 
+  ],
   "main": "./index.js",
   "types": "./index.d.ts",
   "dependencies": {
-    "@atomist/automation-client": "^1.7.0",
+    "@atomist/automation-client": "^1.6.2",
     "@atomist/automation-client-ext-dashboard": "1.0.2-master.20190122114232",
     "@atomist/automation-client-ext-logzio": "1.0.2-master.20190111233251",
     "@atomist/sdm": "^1.6.0",
