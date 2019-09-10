@@ -11,7 +11,7 @@ my really rebase is working?
 ## Getting started 
 
 See the [Developer Quick Start][atomist-quick] to jump straight to 
-creating an SDM.
+creating an SDM. 
  
 [atomist-quick]: https://docs.atomist.com/quick-start/ (Atomist - Developer Quick Start)
 
