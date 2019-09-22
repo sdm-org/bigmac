@@ -8,7 +8,7 @@ my really rebase is working?
 
 [atomist-doc]: https://docs.atomist.com/ (Atomist Documentation)
  
-## Getting started   
+## Getting started    
  
 See the [Developer Quick Start][atomist-quick] to jump straight to  
 creating an SDM.   
