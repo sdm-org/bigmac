@@ -1,11 +1,11 @@
 [{
   "displayName": "Message1",
-  "parameters:" {
+  "parameters": {
     "foo": "bar"
   }
 }, {
   "displayName": "Message2",
-  "parameters:" {
+  "parameters": {
     "foo": "foo"
   }
 }]  
