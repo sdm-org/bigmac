@@ -1,5 +1,11 @@
 [{
-  "displayName": "Message1"
+  "displayName": "Message1",
+  "parameters:" {
+    "foo": "bar"
+  }
 }, {
-  "displayName": "Message2"
+  "displayName": "Message2",
+  "parameters:" {
+    "foo": "foo"
+  }
 }]  
