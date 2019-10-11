@@ -8,4 +8,9 @@
   "parameters": {
     "foo": "foo"
   }
+}, {
+  "displayName": "Message3",
+  "parameters": {
+    "foo": "cd"
+  }
 }]  
