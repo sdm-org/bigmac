@@ -1,0 +1,27 @@
+node_build:
+  test:
+  - and:
+    - hasFile: package.json
+    - isDefaultBranch
+
+  goals:
+  - containers:
+    - name: npm-test
+      image: node:12.4.0
+      env:
+      - name: NODE_ENV
+        value: development
+      - name: MONGODB_URI
+        value: mongodb://mongo:27017/test
+      args:
+      - sh
+      - -c
+      - npm ci && npm test
+      docker_options:
+        - '--link=mongo:mongo'
+    - name: mongo
+      image: mongo:latest
+    output:
+    - classifier: node-modules
+      pattern:
+        directory: node_modules
