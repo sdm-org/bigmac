@@ -16,7 +16,7 @@ creating an SDM.
 [atomist-quick]: https://docs.atomist.com/quick-start/ (Atom ist - Developer Quick Start)
 
 ## Contributing  
- 
+  
 Contributions to this project from community members are encouraged
 and appreciated. Please review the [Contributing 
 Guidelines](CONTRIBUTING.md) for more information. Also see the 
