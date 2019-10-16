@@ -14,7 +14,7 @@ See the [Developer Quick Start][atomist-quick] to jump straight to
 creating an SDM.   
     
 [atomist-quick]: https://docs.atomist.com/quick-start/ (Atom ist - Developer Quick Start)
-
+ 
 ## Contributing  
   
 Contributions to this project from community members are encouraged
