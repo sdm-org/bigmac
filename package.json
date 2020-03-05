@@ -7,7 +7,7 @@
   },   
   "license": "Apache-2.0",
   "homepage": "https://github.com/sdm-org/bigmac#readme",
-  "repository": {
+  "repository": { 
     "type": "git",
     "url": "https://github.com/sdm-org/bigmac.git"
   },
