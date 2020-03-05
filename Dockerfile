@@ -5,7 +5,7 @@ RUN npm install --global yarn
 RUN apt-get update && apt-get install -y \
         libfontconfig \
     && rm -rf /var/lib/apt/lists/*
-
+ 
 COPY package.json package-lock.json ./
 
 ARG NPMRC
