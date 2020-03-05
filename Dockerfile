@@ -1,5 +1,5 @@
 FROM atomist/sdm-base:0.3.0
-
+ 
 RUN npm install --global yarn
 
 RUN apt-get update && apt-get install -y \
