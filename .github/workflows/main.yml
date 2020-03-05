@@ -18,3 +18,5 @@ jobs:
     steps:
       - name: commit-status-updater
         uses: ouzi-dev/commit-status-updater@v1.0.2
+        with:
+          status: success
