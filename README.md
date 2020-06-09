@@ -6,7 +6,7 @@
              
 my really rebase is working?          
   
-[atomist-doc]: https://docs.atomist.com/ (Atomist Documentation)
+[atomist-doc]: https://docs.atomist.com/ (Atomist Documentation)  
     
 ## Getting started         
   
