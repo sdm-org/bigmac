@@ -19,4 +19,4 @@ COPY . .
 # Declaring a volume will instruct kaniko to skip the directory when snapshotting
 VOLUME /opt/app
  
-FROM ubuntu:rolling
+FROM ubuntu:rolling@sha256:be154cc2b1211a9f98f4d708f4266650c9129784d0485d4507d9b0fa05d928b6
