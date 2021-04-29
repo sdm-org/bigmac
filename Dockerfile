@@ -1,4 +1,4 @@
-FROM atomist/sdm-base:0.3.0@sha256:9b1ca81847e47c4cfe02f695055f2da321a6ab2b8b7fda85131256be6e81629b
+FROM atomist/sdm-base:0.3.0@sha256:9b1ca81847e47c4cfe02f695055f2da321a6ab2b8b7fda85131256be6e81629b as builder
  
 RUN npm install --global yarn
  
@@ -19,3 +19,4 @@ COPY . .
 # Declaring a volume will instruct kaniko to skip the directory when snapshotting
 VOLUME /opt/app
  
+FROM ubuntu:rolling
