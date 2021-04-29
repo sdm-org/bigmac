@@ -1,4 +1,4 @@
-FROM atomist/sdm-base:0.3.0
+FROM atomist/sdm-base:0.3.0@sha256:9b1ca81847e47c4cfe02f695055f2da321a6ab2b8b7fda85131256be6e81629b
  
 RUN npm install --global yarn
  
