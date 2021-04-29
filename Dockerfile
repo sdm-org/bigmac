@@ -18,3 +18,4 @@ COPY . .
 
 # Declaring a volume will instruct kaniko to skip the directory when snapshotting
 VOLUME /opt/app
+ 
